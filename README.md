@@ -1,5 +1,5 @@
 Reflection:
-We used exploration method to identify bugs. We documented six bugs with one dupliacate bug. We classified five bugs as major and one as minor. We solved the bugs in local repositories and pushed the changes to separate branches in the group repository.
+We used exploration method to identify bugs. We documented six bugs that includes one dupliacate bug. We classified 3 bugs as major, one is minor and one is minor and an enhancement to the program. We solved the bugs in local repositories and pushed the changes to separate branches in the group repository.
 
 Bug Documentation:
 Bug 1- Add operation: 
@@ -26,7 +26,7 @@ Actual result: error
 Expected result: power
 Severity: major
 
-Bug 5- the program gives error when we press enter instead of writing any number
+Bug 6- the program gives error when we press enter instead of writing any number
 Actual result: Error and stops the function
 Expected result: Should ask the user to enter the number 
 Severity: minor, enhancement
