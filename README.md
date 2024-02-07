@@ -1,7 +1,10 @@
 Reflection:
+
+We were provided with a project with some errors that calulate the numbers " https://github.com/vanilson/infs3203 ". One of the group member forked the provided project to the repository and added the others as collaborators.We created a local repository started solving the bugs by creating a new branch.
 We used exploration method to identify bugs. We documented six bugs that includes one dupliacate bug. We classified 3 bugs as major, one is minor and one is minor and an enhancement to the program. We solved the bugs in local repositories and pushed the changes to separate branches in the group repository.
 
 Bug Documentation:
+
 Bug 1- Add operation: 
 the function did not add the numbers, instead subtracted them
 Actual result: subtraction
