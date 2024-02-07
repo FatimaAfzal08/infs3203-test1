@@ -1,1 +1,1 @@
-This file
+We used exploration method to identify bugs.
